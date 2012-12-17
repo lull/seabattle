@@ -1,0 +1,2 @@
+Added empty method Deck.getLocation()
+

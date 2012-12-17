@@ -1,0 +1,15 @@
+
+public class Deck {
+
+	private Ship ship;
+	private boolean padded;
+
+	public Ship getShip() {
+		return ship;
+	}
+
+	public boolean isPadded() {
+		return padded;
+	}
+
+}

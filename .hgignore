@@ -1,0 +1,8 @@
+syntax: glob
+
+.metadata/
+build/
+dist/
+lib/
+nbproject/
+*.class

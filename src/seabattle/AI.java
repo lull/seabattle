@@ -6,10 +6,8 @@
 package seabattle;
 
 import java.awt.Dimension;
-import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Random;
-import javax.swing.JOptionPane;
 
 public class AI {
 

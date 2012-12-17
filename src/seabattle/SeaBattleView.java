@@ -281,8 +281,6 @@ public class SeaBattleView extends FrameView {
             }
             if(isHuman == false)
             {
-                //JOptionPane.showMessageDialog(mainPanel, "AI");
-                //AI();
                 getAttacked();
             }
         }

@@ -25,14 +25,8 @@ public class AI {
         counterOfShips = 0;
     }
 
-    public void getDefault()
-    {
-        for(int i=0;i<11;i++)
-            for(int j=0;j<11;j++)
-                Ships[i][j]=0;
-        listShip.clear();
-        counterOfShips = 0;
-    }
+  // тут нехватает функции public void getDefault()
+    
 
     // <editor-fold defaultstate="collapsed" desc="Logic">
     public void setShips() {

@@ -1,6 +1,0 @@
-public enum CellType {
-	EMPTY,
-	PADDED,
-	DEAD,
-	WHOLE
-}
